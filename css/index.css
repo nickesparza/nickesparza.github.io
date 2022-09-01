@@ -1,8 +1,35 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
 .headshot {
     width: 50%;
+    border-radius: 50%;
 }
 
 .section {
-    padding-top: 220px;
-    padding-bottom: 220px;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
+
+.headline {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.content {
+    padding: 40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+#my-junimo {
+    background-image: url("/images/splash.png");
+}
+
+/* div {
+    border: 2px solid black;
+} */
