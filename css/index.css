@@ -13,8 +13,7 @@ body {
 }
 
 .headline {
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding: 40px;
     text-align: center;
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
@@ -28,6 +27,18 @@ body {
 
 #my-junimo {
     background-image: url("/images/splash.png");
+}
+
+#watchparty {
+    /* background-image: url("/images/img-placeholder.jpg"); */
+    background-color: rgb(251,192,59);
+    background-size: cover;
+    border-top: 1px solid black;
+}
+
+#burger {
+    background-image: url("/images/title_screen.png");
+    background-size: cover;
 }
 
 /* div {
