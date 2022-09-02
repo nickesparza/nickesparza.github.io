@@ -2,6 +2,10 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
 .headshot {
     width: 50%;
     border-radius: 50%;
@@ -27,6 +31,7 @@ body {
 
 #my-junimo {
     background-image: url("/images/myjunimo-splash.png");
+    background-size: cover;
 }
 
 #watchparty {
