@@ -1,8 +1,11 @@
 # Portfolio Site
-This is the beginning of a portfolio site.
+Portfolio Site for logging projects and current interests.
 
-## Projects to Add
+## Ongoing Projects
+- MyJunimo Helper
+- Super SentAPI
+
+## Completed Projects
 - Burger Rush
 - WatchParty
 - MedicApp
-- MyJunimo
