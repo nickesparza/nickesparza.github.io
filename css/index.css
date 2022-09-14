@@ -30,30 +30,29 @@ a {
 }
 
 #my-junimo {
-    background-image: url("/images/myjunimo-splash.png");
-    background-size: cover;
+    background-color: rgb(236, 200, 120);
+    /* background-image: url("/images/myjunimo-splash.png");
+    background-size: cover; */
 }
 
 #watchparty {
-    /* background-image: url("/images/img-placeholder.jpg"); */
     background-color: rgb(251,192,59);
-    background-size: cover;
-    border-top: 1px solid black;
+    /* background-image: url("/images/img-placeholder.jpg"); */
+    /* background-size: cover; */
 }
 
 #burger {
-    background-image: url("/images/burger-title.png");
-    background-size: cover;
+    background-color: rgb(225,27,19);
+    /* background-image: url("/images/burger-title.png");
+    background-size: cover; */
 }
 
 #sentai {
     background-color: rgb(63, 74, 230);
-    border-top: 1px solid black;
 }
 
 #medic {
     background-color: rgb(58,95,95);
-    border-top: 1px solid black;
 }
 
 /* div {
